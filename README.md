@@ -4,7 +4,7 @@ Just a green screen I use to make PNGs with no background. It's big, so I releas
 
 If you use it / add it to your resources, please give credit.
 
-Here's the link to the post with scripts for making clothing, and now, added scripts for vehicles too!
+Here's the link to the post with scripts for making clothing, and for vehicles check comments for vehicles script !
 [ https://forum.cfx.re/t/free-standalone-clothing-images-generator/5203142 ]
 
 
