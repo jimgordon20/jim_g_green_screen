@@ -1,5 +1,8 @@
 # jim_g_green_screen
 
+[ Jim G discord ]
+https://discord.gg/6QUTHVA3VP
+
 Just a green screen I use to make PNGs with no background. It's big, so I released it for free as I haven't seen anything this big for free.
 
 If you use it / add it to your resources, please give credit.
